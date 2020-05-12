@@ -1,0 +1,29 @@
+{
+  "name": "vuepress-plugin-redirect-frontmatter",
+  "version": "1.0.0",
+  "description": "VuePress plugin to handle redirection via frontmatter",
+  "keywords": [
+    "vue",
+    "vuepress",
+    "vuepress-plugin",
+    "redirect",
+    "frontmatter"
+  ],
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ttskch/vuepress-plugin-redirect-frontmatter.git"
+  },
+  "author": "ttskch@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ttskch/vuepress-plugin-redirect-frontmatter/issues"
+  },
+  "homepage": "https://github.com/ttskch/vuepress-plugin-redirect-frontmatter#readme",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
